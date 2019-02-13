@@ -11,7 +11,6 @@ public class TechreadsCmaApplicationTests {
 
 	@Test
 	public void contextLoads() {
-	}
-
+		
+	}	
 }
-
